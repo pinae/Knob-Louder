@@ -15,4 +15,4 @@ There is a technical drawing for a case in steampunk style for the device [in th
 
 The STL file for the 3D printed knob is [here](https://github.com/pinae/Knob-Louder/blob/master/CAD-Files/Knopf.stl).
 
-![The finished device looks like this.](images/steampunk-knob.jpg)
+![The finished device looks like this.](images/steampunk_knob.jpg)
